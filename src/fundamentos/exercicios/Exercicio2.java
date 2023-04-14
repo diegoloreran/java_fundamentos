@@ -1,4 +1,4 @@
-package fundamentos.exercicios;
+	package fundamentos.exercicios;
 
 import java.util.Scanner;
 
@@ -14,10 +14,9 @@ public class Exercicio2 {
 		
 		double conversao = (fahrenheit - 32) / 1.8;
 		
-		System.out.println("Valor em Celsius: " + conversao + "ÂºC");
+		System.out.println("Valor em Celsius: " + conversao + "ºC");
 		
 		
 		sc.close();
 	}
-
 }

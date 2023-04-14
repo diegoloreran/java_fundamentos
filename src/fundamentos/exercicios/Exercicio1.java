@@ -14,7 +14,7 @@ public class Exercicio1 {
 		
 		double conversao = celsius * 9 / 5 + 32;
 		
-		System.out.println("Valor em Fahrenheit: " + conversao + "ÂºF");
+		System.out.println("Valor em Fahrenheit: " + conversao + "ºF");
 		
 		sc.close();
 		
